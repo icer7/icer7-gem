@@ -1,6 +1,8 @@
 require "icer7/version"
 
-module Icer7
-  class Error < StandardError; end
-  # Your code goes here...
+module SampleGem
+  # 適当な処理
+  def self.greet
+    "Hello"
+  end
 end

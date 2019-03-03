@@ -6,11 +6,11 @@ require "icer7/version"
 Gem::Specification.new do |spec|
   spec.name          = "icer7"
   spec.version       = Icer7::VERSION
-  spec.authors       = ["icer7]
+  spec.authors       = ["icer7"]
   spec.email         = [""]
   spec.summary       = %q{track_practice}
   spec.description   = %q{track_practice}
-  spec.homepage      = "icer7"
+  spec.homepage      = "https://github.com/icer7/icer7"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
